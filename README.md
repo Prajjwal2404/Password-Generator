@@ -15,7 +15,7 @@ The **Random Password Generator** is a Python-based tool that allows users to ge
 
 1. Launch the program by running `main.py`.
 2. The GUI will open with one field:
-   - **Enter the length of the password: **: Enter the length of the password to generate
+   - **Enter the length of the password** : Enter the length of the password to generate
 3. Click **Submit** button to generate password.
 4. A random password of the given length appears.
 
